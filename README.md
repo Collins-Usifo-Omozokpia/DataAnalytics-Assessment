@@ -46,7 +46,7 @@ This repository contains SQL solutions to various data analytics scenarios for t
 - Counted total transactions and calculated the average profit per transaction as 0.1% of the confirmed transaction amount.
 - Estimated CLV using the provided formula and ordered the results by CLV in descending order.
 
-### Question 4 Challenges
+### Third Challenge
 
 - Handling cases where tenure was zero to avoid division by zero errors. This was resolved using `NULLIF` to safely handle such cases.
 
